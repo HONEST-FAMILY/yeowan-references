@@ -1,0 +1,194 @@
+[
+{
+"file": "photos/01.jpg",
+"small": "photos/01_s.jpg",
+"stay": "노마드글램핑",
+"scene": "숙소외부, 야간",
+"stay_id": 3,
+"region": "경기 가평군"
+},
+{
+"file": "photos/02.jpg",
+"small": "photos/02_s.jpg",
+"stay": "188다산트라",
+"scene": "숙소외부, 드론",
+"stay_id": 200,
+"region": "경기 가평군"
+},
+{
+"file": "photos/03.jpg",
+"small": "photos/03_s.jpg",
+"stay": "인디어라운드",
+"scene": "야외수영장, 드론",
+"stay_id": 206,
+"region": "경기 이천시"
+},
+{
+"file": "photos/04.jpg",
+"small": "photos/04_s.jpg",
+"stay": "스푼글램핑",
+"scene": "숙소외부, 야간",
+"stay_id": 166,
+"region": "경기 포천시"
+},
+{
+"file": "photos/05.jpg",
+"small": "photos/05_s.jpg",
+"stay": "푸르미르",
+"scene": "숙소내부",
+"stay_id": 152,
+"region": "경북 경주시"
+},
+{
+"file": "photos/06.jpg",
+"small": "photos/06_s.jpg",
+"stay": "세이워터코히",
+"scene": "숙소내부",
+"stay_id": 194,
+"region": "경북 경주시"
+},
+{
+"file": "photos/07.jpg",
+"small": "photos/07_s.jpg",
+"stay": "오롯하다 가평",
+"scene": "애견동반펜션",
+"stay_id": 9,
+"region": "경기 가평군"
+},
+{
+"file": "photos/08.jpg",
+"small": "photos/08_s.jpg",
+"stay": "세이워터코히",
+"scene": "숙소내부",
+"stay_id": 194,
+"region": "경북 경주시"
+},
+{
+"file": "photos/09.jpg",
+"small": "photos/09_s.jpg",
+"stay": "우다다 애견펜션",
+"scene": "숙소외부, 애견",
+"stay_id": 161,
+"region": "경기 가평군"
+},
+{
+"file": "photos/10.jpg",
+"small": "photos/10_s.jpg",
+"stay": "188다산트라",
+"scene": "숙소외부, 야간",
+"stay_id": 200,
+"region": "경기 가평군"
+},
+{
+"file": "photos/11.jpg",
+"small": "photos/11_s.jpg",
+"stay": "캠피언카라반",
+"scene": "숙소외부, 야간",
+"stay_id": 163,
+"region": "경북 경주시"
+},
+{
+"file": "photos/12.jpg",
+"small": "photos/12_s.jpg",
+"stay": "우다다 애견펜션",
+"scene": "숙소외부, 간판",
+"stay_id": 161,
+"region": "경기 가평군"
+},
+{
+"file": "photos/13.jpg",
+"small": "photos/13_s.jpg",
+"stay": "보엠스파앤리조트",
+"scene": "간판",
+"stay_id": 191,
+"region": "전북 완주군"
+},
+{
+"file": "photos/14.jpg",
+"small": "photos/14_s.jpg",
+"stay": "라하글램핑",
+"scene": "간판",
+"stay_id": 158,
+"region": "강원 원주시"
+},
+{
+"file": "photos/15.jpg",
+"small": "photos/15_s.jpg",
+"stay": "라하글램핑",
+"scene": "핀란드사우나",
+"stay_id": 158,
+"region": "강원 원주시"
+},
+{
+"file": "photos/16.jpg",
+"small": "photos/16_s.jpg",
+"stay": "라하글램핑",
+"scene": "핀란드사우나",
+"stay_id": 158,
+"region": "강원 원주시"
+},
+{
+"file": "photos/17.jpg",
+"small": "photos/17_s.jpg",
+"stay": "세이워터코히",
+"scene": "외부사진",
+"stay_id": 194,
+"region": "경북 경주시"
+},
+{
+"file": "photos/18.jpg",
+"small": "photos/18_s.jpg",
+"stay": "포레스트구봉",
+"scene": "유리온실",
+"stay_id": 33,
+"region": "강원 춘천시"
+},
+{
+"file": "photos/19.jpg",
+"small": "photos/19_s.jpg",
+"stay": "캠피언카라반",
+"scene": "카라반내부",
+"stay_id": 163,
+"region": "경북 경주시"
+},
+{
+"file": "photos/20.jpg",
+"small": "photos/20_s.jpg",
+"stay": "세이워터코히",
+"scene": "자쿠지",
+"stay_id": 194,
+"region": "경북 경주시"
+},
+{
+"file": "photos/21.jpg",
+"small": "photos/21_s.jpg",
+"stay": "스푼글램핑",
+"scene": "글램핑외부",
+"stay_id": 166,
+"region": "경기 포천시"
+},
+{
+"file": "photos/22.jpg",
+"small": "photos/22_s.jpg",
+"stay": "스푼글램핑",
+"scene": "드론사진",
+"stay_id": 166,
+"region": "경기 포천시"
+},
+{
+"file": "photos/23.jpg",
+"small": "photos/23_s.jpg",
+"stay": "188다산트라",
+"scene": "겨울, 드론",
+"stay_id": 200,
+"region": "경기 가평군"
+},
+{
+"file": "photos/24.jpg",
+"small": "photos/24_s.jpg",
+"stay": "미라몬티",
+"scene": "숙소외부, 야간",
+"stay_id": 164,
+"region": "경기 가평군"
+}
+]
